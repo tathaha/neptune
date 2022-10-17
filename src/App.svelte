@@ -60,7 +60,7 @@
 				ws.send(
 					JSON.stringify({
 						op: Op.Initialize,
-						d: { subscribe_to_id: "352158391038377984" },
+						d: { subscribe_to_id: "685716988471148552" },
 					}),
 				);
 			}
